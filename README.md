@@ -26,8 +26,8 @@ My name is **Chris Bishop** 👋🏻 I'm a cybersecurity professional and softwa
 
 ## 📫 How to reach me
 
-- [ ] Email: chris@bishop.dev
-- [ ] Website: https://bishop.dev
-- [ ] X: https://x.com/bishopdotdev
-- [ ] LinkedIn: https://linkedin.com/in/bishopdotdev
-- [ ] YouTube: https://youtube.com/@bishopdotdev
+- Email: chris@bishop.dev
+- Website: https://bishop.dev
+- X: https://x.com/bishopdotdev
+- LinkedIn: https://linkedin.com/in/bishopdotdev
+- YouTube: https://youtube.com/@bishopdotdev
