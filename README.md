@@ -1,6 +1,6 @@
 # Welcome to my Github!
 
-My name is **Chris Bishop** I'm a Cybersecurity Professional and software developer from Toronto 🇨🇦
+My name is **Chris Bishop** 👋🏻 I'm a cybersecurity professional and software developer from 🇨🇦 Canada.
 
 ## Github Stats
 
@@ -28,8 +28,6 @@ My name is **Chris Bishop** I'm a Cybersecurity Professional and software develo
 
 - [ ] Email: chris@bishop.dev
 - [ ] Website: https://bishop.dev
-- [ ] Twitter: https://twitter.com/bishopdotdev
 - [ ] X: https://x.com/bishopdotdev
-- [ ] GitHub: https://github.com/bishopdotdev
 - [ ] LinkedIn: https://linkedin.com/in/bishopdotdev
 - [ ] YouTube: https://youtube.com/@bishopdotdev
