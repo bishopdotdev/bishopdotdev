@@ -8,5 +8,8 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxt/content',
     '@nuxthub/core'
-  ]
+  ],
+  hub: {
+    cache: true
+  }
 })
