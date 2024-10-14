@@ -9,8 +9,8 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxthub/core'
   ],
-  nuxthub: {
-    cache: true
-  }
+  // nuxthub: {
+  //   cache: true
+  // }
 })
 
