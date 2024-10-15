@@ -25,7 +25,7 @@
             class="col-span-6 sm:col-span-3 lg:col-span-6 row-span-2" 
             icon="fa-duotone fa-solid fa-file-user fa-2x" 
             title="About" 
-            description="My resume and some information about me."
+            description="Interested in learning more about me? Check out my resume and some information about me."
             color="teal"
             to="/about"
             />
@@ -50,7 +50,7 @@
             <ULandingCard class="col-span-6 sm:col-span-3 lg:col-span-6 row-span-2" 
             icon="fa-duotone fa-solid fa-address-card fa-2x" 
             title="Contact" 
-            description="Get in touch with me." 
+            description="Want to get in touch? Check out my contact page for more information on how to connect." 
             to="/contact"
             color="teal"
             />
