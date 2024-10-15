@@ -9,6 +9,9 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxthub/core'
   ],
+  css: [
+    '@fortawesome/fontawesome-pro/css/all.css',
+  ],
   // nuxthub: {
   //   cache: true
   // }
