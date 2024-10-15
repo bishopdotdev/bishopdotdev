@@ -19,7 +19,7 @@
             </div>
         </div>
 
-        <ULandingGrid class="max-w-7xl w-full flex items-center justify-center px-4 sm:px-6 lg:px-8">
+        <ULandingGrid class="max-w-7xl w-full flex items-center justify-center px-4 sm:px-6 lg:px-8 mx-auto">
 
             <ULandingCard 
             class="col-span-6 sm:col-span-3 lg:col-span-6 row-span-2" 
