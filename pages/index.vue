@@ -78,6 +78,10 @@
 
 <script setup lang="ts">
 // No additional setup needed as Announcement component is auto-imported
+// Force theme to be dark
+const colorMode = useColorMode()
+colorMode.preference = 'dark'
+
 </script>
 
 <style scoped>
