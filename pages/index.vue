@@ -38,12 +38,21 @@
             color="emerald"
             />
             
-            <ULandingCard class="col-span-6 sm:col-span-3 lg:col-span-6 row-span-4" 
+            <!-- TODO: Add this back in once I have a portfolio site -->
+            <!-- <ULandingCard class="col-span-6 sm:col-span-3 lg:col-span-6 row-span-4" 
             icon="fa-duotone fa-solid fa-chess-bishop fa-2x" 
             title="Hire Me" 
             description="Need a developer to build an app? Looking for assistance with your Shopify store, business website, or automation? I'm here to help! Hire my team at Bishop Labs."
             to="https://www.bishoplabs.ca"
             target="_blank"
+            color="emerald"
+            /> -->
+
+            <ULandingCard class="col-span-6 sm:col-span-3 lg:col-span-6 row-span-4" 
+            icon="fa-duotone fa-solid fa-chess-bishop fa-2x" 
+            title="Hire Me" 
+            description="Need a developer to build an app? Looking for assistance with your Shopify store, business website, or automation? I'm here to help! Hire my team at Bishop Labs."
+            to="/contact"
             color="emerald"
             />
             
