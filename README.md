@@ -6,7 +6,7 @@ My name is **Chris Bishop** 👋🏻 I'm a cybersecurity professional and softwa
 
 ![Chris Bishop's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishopdotdev&show_icons=true&theme=monokai)
 
-## 🔭 Projects I'm working on
+<!-- ## 🔭 Projects I'm working on
 
 - [ ] bishop.dev (My Personal Website & Blog)
 - [ ] bishoplabs.ca (My Software Development Agency)
@@ -22,7 +22,7 @@ My name is **Chris Bishop** 👋🏻 I'm a cybersecurity professional and softwa
   - [ ] Senior Vue Developer
 - [ ] [Nuxt](https://certificates.dev/nuxt)
   - [ ] Nuxt Developer
-  - [ ] Senior Nuxt Developer
+  - [ ] Senior Nuxt Developer -->
 
 ## 📫 How to reach me
 
