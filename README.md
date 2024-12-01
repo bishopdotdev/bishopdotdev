@@ -2,6 +2,10 @@
 
 My name is **Chris Bishop** 👋🏻 I'm a cybersecurity professional and software developer from 🇨🇦 Canada.
 
+## Codewars
+
+![codewars badge](https://www.codewars.com/users/bishop.dev/badges/large)
+
 ## Github Stats
 
 ![Chris Bishop's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishopdotdev&show_icons=true&theme=monokai)
