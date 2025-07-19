@@ -12,6 +12,6 @@ export default defineNuxtConfig({
     '@nuxt/ui-pro'
   ],
   css: [
-    '~/app/assets/css/main.css'
+    './app/assets/css/main.css'
   ]
 })
