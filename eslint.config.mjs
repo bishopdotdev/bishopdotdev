@@ -2,5 +2,12 @@
 import withNuxt from './.nuxt/eslint.config.mjs'
 
 export default withNuxt(
-  // Your custom configs here
+   {
+    rules: {
+      // Disable multi-word component names for pages (standard Nuxt convention)
+      'vue/multi-word-component-names': ['error', {
+        ignores: ['index', 'error', 'default']
+      }]
+    }
+  }
 )
