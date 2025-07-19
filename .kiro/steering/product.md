@@ -1,10 +1,20 @@
 # Product Overview
 
-This is Chris Bishop's personal developer website and portfolio (bishop.dev). The site serves as:
+This is Chris Bishop's personal developer website (bishop.dev) - a professional portfolio and blog site for a Toronto-based developer.
+
+## Purpose
 
 - Personal branding and professional presence
-- Portfolio showcase for development work
-- Content platform for sharing technical knowledge
-- Hub for social media and professional links
+- Developer portfolio showcase
+- Content publishing platform (blog/articles)
+- Social media hub with links to Twitter/X, LinkedIn, and YouTube
 
-The project is built as a modern, content-driven website with a focus on developer experience and performance. It's designed to be a personal brand platform for a Toronto-based developer with active social media presence across Twitter/X, LinkedIn, and YouTube.
+## Current Status
+
+The site is in early development with a "Coming Soon" placeholder page. The foundation is built with modern web technologies to support future content and features.
+
+## Target Audience
+
+- Potential employers and clients
+- Fellow developers and tech community
+- Content consumers interested in development topics

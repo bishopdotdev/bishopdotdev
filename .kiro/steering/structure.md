@@ -1,51 +1,67 @@
 # Project Structure
 
-## Root Level
+## Root Configuration
 
-- `app.vue` - Main application entry point using UApp wrapper
-- `nuxt.config.ts` - Nuxt configuration with modules and settings
-- `package.json` - Dependencies and npm scripts
-- `eslint.config.mjs` - ESLint configuration extending Nuxt defaults
+- `nuxt.config.ts` - Main Nuxt configuration
+- `package.json` - Dependencies and scripts
 - `tsconfig.json` - TypeScript configuration
+- `eslint.config.mjs` - ESLint configuration
+- `.env` - Environment variables (not committed)
 
-## Key Directories
+## Application Structure
 
-### `/app`
+```
+app/
+├── app.vue           # Root application component
+├── pages/            # File-based routing
+│   └── index.vue     # Homepage component
+└── assets/
+    └── css/
+        └── main.css  # Global styles (Tailwind + UI Pro)
+```
 
-- `assets/` - Static assets and global styles
-  - `main.css` - Global CSS imports (Tailwind + UI Pro)
+## Content & Static Assets
 
-### `/public`
+```
+public/               # Static files served at root
+├── favicon.ico
+└── robots.txt
 
-- Static files served directly (favicon, robots.txt, etc.)
+.data/                # Content database
+└── content/
+    └── contents.sqlite
+```
 
-### `/server`
+## Development & Build
 
-- Server-side code and API routes
-- `tsconfig.json` - Server-specific TypeScript config
+```
+.nuxt/                # Generated build files (auto-generated)
+node_modules/         # Dependencies
+server/               # Server-side code
+└── tsconfig.json     # Server TypeScript config
+```
 
-### `/.nuxt` (Generated)
+## Conventions
 
-- Auto-generated Nuxt build files
-- Type definitions and component registrations
-- UI component configurations for Nuxt UI and UI Pro
+### File Naming
 
-### `/.data`
+- Vue components: PascalCase (e.g., `MyComponent.vue`)
+- Pages: kebab-case or camelCase (e.g., `index.vue`, `about.vue`)
+- Assets: kebab-case (e.g., `main.css`)
 
-- Content database and cached data
-- `content/contents.sqlite` - Nuxt Content database
+### Component Structure
 
-## File Conventions
+- Use `<script setup>` syntax for Vue 3 Composition API
+- Utilize `useHead()` for SEO meta tags
+- Wrap pages in `<UApp>` component for UI Pro integration
 
-- Use `.vue` for Vue components
-- Use `.ts` for TypeScript files
-- Use `.md` for content files (processed by Nuxt Content)
-- CSS follows Tailwind utility-first approach
-- Components auto-imported from `components/` directory (when created)
+### Styling
 
-## Architecture Notes
+- Tailwind utility classes preferred
+- Global styles in `app/assets/css/main.css`
+- UI Pro components available globally (e.g., `<UApp>`)
 
-- Follows Nuxt 3 file-based routing conventions
-- Uses Nuxt UI Pro component library for consistent design
-- Content-driven architecture with markdown support
-- Auto-imports enabled for Vue composables and utilities
+### Content Management
+
+- Markdown content managed via Nuxt Content module
+- Content stored in `.data/content/` as SQLite database
