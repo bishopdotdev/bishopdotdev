@@ -13,12 +13,12 @@ My name is Chris Bishop, I'm a developer from Toronto, Canada
 ---
 
 ### 📊 GitHub Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishopdotdev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishopdotdev&show_icons=true&hide_title=true&count_private=true&hide=stars,issues&theme=radical)
 
 ---
 
 ### 🔥 Languages Used 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishopdotdev&layout=compact&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishopdotdev&layout=compact&hide_title=true&langs_count=8&theme=radical)
 
 ---
 
